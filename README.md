@@ -73,6 +73,9 @@ Head over to `test` folder and create a new file to write the tests.
 - Hardhat Test Scripts should cover all critical paths and edge cases in the contract functionality.
 - The README must contain the Sepolia Etherscan link of the deployed contract.
 
+### **Sepolia Etherscan link**
+https://sepolia.etherscan.io/address/0x20e67f29769e62aeCD50dE6380aB5658E8C00A3A
+
 ## License
 
 [License](LICENSE.txt)
